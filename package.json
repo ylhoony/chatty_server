@@ -12,6 +12,6 @@
   "dependencies": {
     "express": "4.14.1",
     "node-uuid": "1.4.7",
-    "ws": "2.0.3"
+    "ws": "7.2.1"
   }
 }
